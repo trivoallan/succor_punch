@@ -1,0 +1,3 @@
+[submodule "crawler/vendors/goutte"]
+	path = crawler/vendors/goutte
+	url = git://github.com/fabpot/Goutte.git
